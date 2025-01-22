@@ -10,7 +10,8 @@ const todos = [
     { id: 8, text: "Read a book" },
     { id: 9, text: "Do laundry" },
     { id: 10, text: "Write code" },
-  ];
+];
+
 const TodoList = () => {
     
     return (
